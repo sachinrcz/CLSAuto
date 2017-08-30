@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jasper-compiler-5.5.15.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jasper-runtime-5.5.15.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/javacsv.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-continuation-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-http-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-jmx-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-security-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-server-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-servlet-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-servlets-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/websocket-api-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/websocket-client-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/websocket-common-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sachin/Development/Java Libraries/Selenium2.48/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/twilio-java-sdk-5.10.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
