@@ -103,9 +103,10 @@ public class Helper {
 		 return "";
 	 }
 	static String createDate(){ 
-		
+		 Calendar calendar = Calendar.getInstance();
+		 calendar.add(Calendar.DAY_OF_YEAR, -1);
 		//Remove -1 to set Date as Current Day
-		int d= Calendar.getInstance().get(Calendar.DAY_OF_MONTH)-1;
+		int d= calendar.get(Calendar.DAY_OF_MONTH);
 		try{
 			if(!auto){
 				Scanner reader = new Scanner(System.in);  // Reading from System.in
@@ -113,8 +114,8 @@ public class Helper {
 				d =reader.nextInt();
 			}
 		}catch(Exception e){}
-		int y= Calendar.getInstance().get(Calendar.YEAR);
-		int m= Calendar.getInstance().get(Calendar.MONTH);
+		int y= calendar.get(Calendar.YEAR);
+		int m= calendar.get(Calendar.MONTH);
 		date =new Integer(y).toString()+maketwodigit(m+1)+maketwodigit(d);  
 		
 		 

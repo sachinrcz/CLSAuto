@@ -302,7 +302,7 @@ public class EDIAuto extends Helper {
 				if(newauto || askChoice("Index Process")){
 
 					 if(newauto){
-						 System.out.println("Wait for 3 Minutes before AutoCourtOpt Execution");
+						 System.out.println("Wait for 3 Minutes before Index Execution");
 						 Thread.sleep(180000);
 					 }
 					executeAutoit("indexApp.exe");
