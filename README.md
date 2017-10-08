@@ -1,4 +1,4 @@
 # CLSAuto
-Java standalone to CLS support
+Java standalone application to detect and start CLS Overnight Process
 
 
